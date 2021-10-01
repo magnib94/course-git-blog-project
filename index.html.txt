@@ -10,7 +10,7 @@
 <body>
 
     <header>
-        <h1>Expedition</h1>
+        <h1>Changed heading</h1>
     </header>
 
     <div class="container">
