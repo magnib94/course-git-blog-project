@@ -10,7 +10,7 @@
 <body>
 
     <header>
-        <h1>change to for merge conflict</h1>
+        <h1>Goat in paris</h1>
     </header>
 
     <div class="container">
