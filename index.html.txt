@@ -20,7 +20,7 @@
               </aside>
         </main>
     </div>
-<p1> The goat arrived in Paris and introduced himself with a banger of a goal while penaldo <br/> celebrates scoring scrabs.
+<p1> The goat arrived in Paris and introduced himself with a banger of a goal while penaldo <br/> celebrates scoring scrabs.</p1>
     <footer>
         Made with ♥ @ Udacity
              <section>
