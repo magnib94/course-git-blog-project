@@ -10,7 +10,7 @@
 <body>
 
     <header>
-        <h1>Goat in paris</h1>
+        <h1>The Goat scored in Paris</h1>
     </header>
 
     <div class="container">
